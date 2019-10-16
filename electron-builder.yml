@@ -1,5 +1,5 @@
-productName: "Waves DEX"
-appId: "com.wavesplatform.client.lite"
+productName: "CR DEX"
+appId: "com.thebitcoindomain.client.lite"
 copyright: "Waves Platform"
 
 compression: normal
